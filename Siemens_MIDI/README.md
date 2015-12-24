@@ -1,4 +1,4 @@
-<h1> Generate midi/tune datablock:
+<h1> Generate midi/tune datablock: </h1>
 
 Step 1.
 Convert midi to simplified format (note on, note off, delay). Using tool from https://github.com/LenShustek/miditones
